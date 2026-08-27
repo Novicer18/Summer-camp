@@ -1,0 +1,22 @@
+SOC TICKET #4471 — Possible data exfiltration
+Priority: High
+Reported by: NDR sensor (behavioral alert)
+
+Summary:
+Our network detection sensor flagged workstation 10.0.0.37 (finance VLAN) for
+an unusual, sustained pattern of outbound DNS lookups over a short window. The
+volume and the shape of the domain names don't match normal browsing. We suspect
+a host on this segment is quietly pushing data OFF the network.
+
+We pulled a packet capture from the gateway span port covering the alert window
+(capture.pcap, attached). Most of it looks like ordinary user traffic.
+
+Your task:
+  - Determine WHAT left the network during this window.
+  - Recover the exact data that was exfiltrated.
+
+Notes:
+  - The capture is a small sample; everything you need is inside it.
+  - Assume the endpoint is compromised. Focus on what it is sending, and where.
+
+Deliverable: the recovered data, verbatim.

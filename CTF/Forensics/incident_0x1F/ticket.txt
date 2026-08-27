@@ -1,0 +1,28 @@
+SOC TICKET  #INC-0x1F
+Severity : HIGH
+Host     : web-prod-01  (Ubuntu, public-facing web server)
+Opened   : 2026-08-18 03:20 UTC
+Source   : IDS + EDR correlation
+
+SUMMARY
+  Our IDS flagged a spike of SSH authentication failures from a single external
+  address against web-prod-01, immediately followed by an authenticated session and
+  an outbound HTTP connection to a non-standard port that does not match any known
+  software update service. EDR quarantined the host and pulled a small evidence
+  bundle before reimaging.
+
+EVIDENCE PROVIDED (see evidence/ tree)
+  - var/log/auth.log          system authentication log
+  - home/deploy/.bash_history shell history recovered from a user account
+  - tmp/.update.sh            suspicious script found in /tmp
+  - etc/cron.d/apt-refresh    cron entry flagged by file-integrity monitoring
+
+ANALYST TASKS
+  1. Confirm the intrusion: which account was compromised, from what source IP,
+     and at exactly what time did the attacker get in?
+  2. Identify how the malware was delivered (the dropper URL).
+  3. Identify the persistence mechanism.
+  4. The /tmp/.update.sh beacon hides its C2 profile. Recover ("deobfuscate") the
+     embedded configuration. The campaign "auth_key" it carries is your answer.
+
+Report the recovered auth_key.

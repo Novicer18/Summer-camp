@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:3b9fa445-6d19-40dd-a6ae-ac9526dcca7d
+SEQUENCE:0
+DTSTAMP:20260826T133733Z
+DTSTART:20260828T203000Z
+DTEND:20260828T203000Z
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR
+SUMMARY:Sheba Protocol First Team Meating
+LOCATION:Discord: sheba_protocol's server server\, General
+DESCRIPTION:🚀 Sheba Protocol — First Team Meeting\n\n🎯 Main Discus
+ sion\n\n- What did you work on this week?\n- What path are you currently f
+ ollowing?\n- What is your destination/long-term goal?\n- How do you plan t
+ o achieve it?\n- What skills do you want to develop?\n\n\n🏆 CTF Session
+ (If it is possible)\n\nWe'll finish with an easy CTF challenge and solve i
+ t together as a team.\n\nGoal: Learn\, collaborate\, and understand everyo
+ ne's direction.
+END:VEVENT
+END:VCALENDAR

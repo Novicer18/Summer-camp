@@ -1,0 +1,13 @@
+serialcheck
+===========
+
+We recovered an old license-checker binary from a decommissioned build server.
+It asks for a serial key and, when given the right one, unlocks a secret.
+
+    ./serialcheck <serial>          # or run it and type the serial at the prompt
+
+Nobody kept a record of a valid key, and the secret is not stored as plain text
+anywhere in the file. Reverse the checker, recover a serial it accepts, and
+unlock the flag.
+
+The flag has the form tibebCTF{...}.

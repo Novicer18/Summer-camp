@@ -1,0 +1,1178 @@
+!This program cannot be run in DOS mode.
+RichG
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+UAWAVAUATVWSH
+fff.
+ffffff.
+fff.
+ffffff.
+ffff.
+3)aIA^->H
+M	E8
+G	Ik
+M E8
+M"E8
+U#E8
+M%E8
+M&E8
+M'E8
+M(E8
+M)E8
+M*E8
+M+E8
+M,E8
+M-E8
+M.E8
+M/E8
+E0A8
+E2D8
+M3D8
+E5D8
+E6D8
+E7D8
+E8D8
+E9D8
+E:D8
+E;D8
+E<D8
+E=D8
+E>D8
+E?D8
+M@E8
+MBE8
+UCE8
+MEE8
+MFE8
+MGE8
+MHE8
+MIE8
+MJE8
+MKE8
+MLE8
+MME8
+MNE8
+MOE8
+MPE8
+MRE8
+USE8
+MUE8
+MVE8
+MWE8
+MXE8
+MYE8
+MZE8
+M[E8
+M\E8
+M]E8
+M^E8
+M_E8
+M`E8
+MbE8
+UcE8
+MeE8
+MfE8
+MgE8
+MhE8
+MiE8
+MjE8
+MkE8
+MlE8
+MmE8
+MnE8
+MoE8
+MpE8
+MrE8
+UsE8
+MuE8
+MvE8
+MwE8
+MxE8
+MyE8
+MzE8
+M{E8
+M|E8
+M}E8
+M~E8
+G Ik
+G!Ik
+G"Ik
+G$fA
+G%Ik
+G&Ik
+G'Ik
+ffffff.
+[_^A\A]A^A_]
+UAWAVAUATVWSH
+)t$ H
+(t$ H
+8[_^A\A]A^A_]
+UAWAVAUATVWSH
+)t$ H
+(t$ H
+8[_^A\A]A^A_]
+ffff.
+UAWAVAUATVWSH
+)t$ H
+(t$ H
+8[_^A\A]A^A_]
+l$PH
+D$ H
+ffff.
+UAWAVAUATVWSH
+l$PH
+X[_^A\A]A^A_]
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+UAVVWSH
+l$PH
+P[_^A^]
+D$ H
+UAVVWSH
+0[_^A^]
+l$ H
+(^]H
+UAVVWSH
+l$ L
+ [_^A^]
+UAVVWSH
+l$ H
+ [_^A^]
+UAWAVAUATVWSH
+l$@L
+ffffff.
+H[_^A\A]A^A_]H
+H[_^A\A]A^A_]
+UAWAVAUATVWSH
+l$0L
+ s{H
+8[_^A\A]A^A_]I
+8[_^A\A]A^A_]
+AWAVATVWSH
+\$PfD
+T$@fD
+L$0fD
+D$ f
+t%ffffff.
+t{E1
+tfE1
+tQE1
+t<E1
+t'E1
+(D$ D
+(L$0D
+(T$@D
+(\$PH
+h[_^A\A^A_
+UAWAVAUATVWSH
+l$PM
+uWE1
+T$ H
+X[_^A\A]A^A_]H
+T$ L
+D$ L
+X[_^A\A]A^A_]
+3/#H
+l$@H
+L$(H
+D$ A
+UAVVWSH
+l$ L
+ [_^A^]H
+ [_^A^]
+UAWAVAUATVWSH
+l$PH
+Qfff.
+w4I9
+ffff.
+ffffff.
+'ffff.
+u M9
+X[_^A\A]A^A_]
+UAVVWSH
+l$ H
+ [_^A^]
+ [_^A^]H
+l$@H
+L$(H
+D$ A
+L$(H
+D$ L
+UVWH
+@_^]
+UVWSH
+([_^]
+fff.
+t+D)
+AWAVVWSE1
+ffff.
+[_^A^A_
+UAWAVAUATVWSH
+l$PH
+X[_^A\A]A^A_]
+F	uqI
+UAWAVAUATVWSH
+l$0M
+#ff.
+fff.
+'ffffff.
+fffff.
+8[_^A\A]A^A_]
+UVWSH
+	v0E
+D$(H
+L$ A
+H[_^]
+w8L9
+fff.
+D$ I
+ffffff.
+D$ M
+u+I9
+UAVVWSH
+l$0H
+0[_^A^]
+UVWSH
+l$@H
+L$(H
+L$(H
+D$ L
+L$(H
+D$ A
+L$(H
+D$ L
+H[_^]
+l$@A
+L$(H
+D$ L
+AVVWSL
+[_^A^
+UVWSH
+	v0E
+D$(L
+D$ A
+H[_^]
+l$@A
+L$(H
+D$ L
+l$PI
+3/#H
+L$(H
+D$ A
+UAWAVAUATVWSH
+sRM9
+tfE1
+L$ H
+X[_^A\A]A^A_]
+D$(H
+L$ A
+L$(H
+D$ L
+UAWAVAUATVWSH
+U8M)
+s>I9
+>ZNt=
+>__ZN
+>_Rts
+>RtVI
+t"M9
+D$ L
+[_^A\A]A^A_]
+D$ H
+D$ A
+D$ H
+D$ A
+D$ A
+D$ H
+D$ A
+UAWAVVWSH
+Xt@A
+Mt5H
+[_^A^A_]
+[_^A^A_]
+Su5H
+UVWSH
+l$`H
+h[_^]
+h[_^]
+UVWH
+l$0H
+0_^]
+UVWSH
+l$ I
+([_^]
+t<I9
+CuwM
+t-I9
+L$ H
+D$ L
+L$ H
+UAWAVAUATVWSH
+[_^A\A]A^A_]H
+r"E1
+[_^A\A]A^A_]
+UVWH
+l$0H
+0_^]
+D$ H
+UAWAVATVWSH
+l$0H
+0[_^A\A^A_]
+0[_^A\A^A_]
+Au8H
+LurH
+Rt&H
+UAWAVVWSH
+l$0H
+Lu&H
+8[_^A^A_]
+UAVVWSH
+l$0H
+(wrL
+nu.H
+Rt&H
+0[_^A^]
+0[_^A^]
+UAWAVVWSH
+l$0H
+{(M)
+8[_^A^A_]
+8[_^A^A_]
+UAWAVVWSH
+l$0H
+8[_^A^A_]
+8[_^A^A_]
+UVWSH
+l$`H
+h[_^]
+h[_^]
+UVWSH
+l$ I
+_u M
+([_^]
+UAVVWSH
+[_^A^]
+UAWAVAUATVWSH
+l$@H
+"t0A
+'tRA
+H[_^A\A]A^A_]
+H[_^A\A]A^A_]H
+UAWAVAUATVWSH
+l$pH
+'t)A
+	t|A
+"tRA
+x[_^A\A]A^A_]
+x[_^A\A]A^A_]
+D$ H
+UAVVWSH
+l$ H
+Et@I
+ [_^A^]
+UAVVWSH
+l$ H
+EtFH
+ [_^A^]
+UAWAVAUATVWSH
+l$`H
+h[_^A\A]A^A_]
+UAVVWSH
+[_^A^]
+T$	A
+UAWAVAUATVWSH
+l$PH
+X[_^A\A]A^A_]
+UAWAVAUATVWSH
+l$`L
+|$ H
+t!M9
+uOI)
+h[_^A\A]A^A_]
+D$ M
+D$ L
+UAVVWSH
+l$0H
+0[_^A^]
+UAWAVVWSH
+l$0H
+8[_^A^A_]
+8[_^A^A_]
+8[_^A^A_]
+D)v(
+UVWH
+l$`H
+`_^]
+`_^]
+UAVVWSH
+l$ H
+EtDH
+ [_^A^]
+UAWAVVWSH
+l$0H
+8[_^A^A_]
+D)v(
+8[_^A^A_]
+UVWSH
+l$ H
+RuGH
+([_^]
+([_^]
+EtMH
+UAWAVAUATVWSH
+l$`H
+h[_^A\A]A^A_]
+UVWH
+l$`H
+BubH
+`_^]
+UAWAVAUATVWSH
+Ku+L
+CuRH
+[_^A\A]A^A_]
+[_^A\A]A^A_]
+UAWAVAUATVWSH
+i L9
+t>/I
+r L;m
+t>L9
+([_^A\A]A^A_]
+UVWSH
+l$@H
+D$ H
+H[_^]
+UAWAVAUATVWSH
+s#I9
+?_$u
+.u2I
+>SPH
+>BPH
+>RFH
+>LTH
+>GTH
+>LPH
+>RPH
+.u2A
+riH9
+%tXH
+!rAH
+[_^A\A]A^A_]
+D$ H
+D$ H
+D$ A
+D$ A
+D$ L
+L$ H
+L$ H
+D$ H
+D$ A
+D$ A
+D$ A
+D$ H
+D$ A
+UAWAVAUATVWSH
+j[AX
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+l$`H
+l$@H
+UAWAVAUATVWSH
+43H;}
+[_^A\A]A^A_]
+>fullt0@
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+ffff.
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+l$@H
+H^]H
+UAWAVAUATVWS
+Ffff.
+D$0H
+\$(L
+d$ 1
+D$0H
+\$(H
+D$ H
+|$ L
+t$0H
+D$(H
+D$ 1
+[_^A\A]A^A_]
+UAWAVAUATVWSH
+)t$@H
+(t$@H
+X[_^A\A]A^A_]
+UAWAVAUATVWSH
+)t$@H
+(t$@H
+X[_^A\A]A^A_]
+UAWAVAUATVWSH
+)t$@
+(t$@H
+X[_^A\A]A^A_]
+fffff.
+UAWAVAUATVWSH
+)t$@H
+(t$@H
+X[_^A\A]A^A_]
+UAWAVAUATVWSH
+)t$@H
+(t$@H
+X[_^A\A]A^A_]
+fffff.
+UAWAVAUATVWSH
+)t$@H
+(t$@H
+X[_^A\A]A^A_]
+UAWAVVWSH
+[_^A^A_]
+UVWH
+l$@H
+fffff.
+L$(H
+D$ L
+@_^]
+UAWAVAUATVWSH
+l$`H
+ffffff.
+h[_^A\A]A^A_]
+D$ H
+UAWAVAUATVWSH
+l$@H
+\t	H
+Mfff.
+t	fB
+;t L;>u
+H[_^A\A]A^A_]
+D$ H
+ffffff.
+UAWAVAUATVWSH
+UAWAVATVWSH
+l$@I
+@[_^A\A^A_]
+UAWAVVWSH
+D$ H
+[_^A^A_]
+UAWAVVWSH
+8[_^A^A_]
+UAWAVAUATVWSH
+]pfD
+U`fD
+MPfD
+u<M9
+`uJL
+C?H9
+oT7 
+oD70f
+u\fD
+uZfD
+\$ H
+s?L9
+(}0D
+(E@D
+(MPD
+(U`D
+(]pD
+[_^A\A]A^A_]
+t$I9
+D$ I
+l$ H
+(^]H
+UVSH
+l$`H
+`[^]
+fffff.
+UVSH
+ [^]
+A E1
+UAWAVAUATVWSH
+)EPH
+fffff.
+)M`H
+ffffff.
+u,M9
+[_^A\A]A^A_]
+UAWAVAUATVWSH
+([_^A\A]A^A_]
+AWAVVWSM
+u0E1
+[_^A^A_
+t)ffff.
+UNC\I9
+UAWAVAUATVWSH
+fffff.
+ffff.
+</\t
+h[_^A\A]A^A_]
+<	.u&A
+UAVVWSH
+l$ H
+?\t6I
+Fffff.
+8.u*1
+ [_^A^]
+UAWAVATVWSH
+l$0H
+0[_^A\A^A_]
+fffff.
+UAWAVATVWSH
+ [_^A\A^A_]
+UAWAVATVWSH
+l$@H
+@[_^A\A^A_]
+UAWAVATVWSH
+ [_^A\A^A_]
+UAWAVVWSH
+l$ M
+ffff.
+([_^A^A_]
+UAWAVVWSH
+D$0H
+|$(H
+\$ L
+[_^A^A_]
+D$ H
+UAWAVVWSH
+H[_^A^A_]
+UAWAVVWS
+[_^A^A_]
+UAWAVVWSH
+D$ H
+[_^A^A_]
+L$(H
+D$ L
+UAWAVATVWSH
+l$`H
+`[_^A\A^A_]
+`[_^A\A^A_]H
+l$@D
+D$(H
+L$ A
+L$(H
+D$ L
+l$ H
+(^]H
+UAWAVATVWSH
+l$@H
+ <#u
+@[_^A\A^A_]
+UAWAVATVWSH
+ [_^A\A^A_]
+UVWSH
+l$@H
+H[_^]
+UVWSH
+([_^]
+l$PH
+D$ H
+D$ H
+UVWSH
+l$`H
+h[_^]
+UVWSH
+([_^]
+UVWSH
+([_^]
+l$PH
+UAVVWSH
+l$0L
+0[_^A^]
+UAVVWSH
+l$0H
+0[_^A^]
+UVWH
+l$ H
+ _^]
+l$ H
+UVWH
+l$ H
+ _^]I
+UAWAVAUATVWS
+[_^A\A]A^A_]
+[_^A\A]A^A_]H
+[_^A\A]A^A_]H
+t$ H
+Hfffff.
+[_^A\A]A^A_]
+UAWAVAUATVWSH
+8[_^A\A]A^A_]
+ffff.
+UAWAVAUATVWSH
+8[_^A\A]A^A_]
+ffff.
+UAWAVAUATVWSH
+8[_^A\A]A^A_]
+(^]H
+UAWAVAUATVWS
+D$0H
+\$(H
+t$ L
+t$ H
+D$0L
+t$ H
+D$0D
+|$(H
+\$ L
+[_^A\A]A^A_]
+UAWAVAUATVWSH
+H[_^A\A]A^A_]
+UAWAVAUATVWSH
+l$`I
+|$ L
+h[_^A\A]A^A_]
+l$0H
+l$PH
+l$0H
+8^]H
+UAVVWSH
+l$@H
+<#tl
+ <#t
+<#uJH
+@[_^A^]
+UAVVWSH
+ [_^A^]
+UVWH
+l$ H
+ _^]
+l$@H
+UAWAVVWSH
+l$ M
+ffff.
+ <#u
+([_^A^A_]
+l$0H
+l$ H
+UVWSH
+l$`H
+h[_^]
+UVWSH
+([_^]
+UVWSH
+([_^]
+fff.
+UVWSH
+([_^]
+UAWAVATVWSH
+l$0H
+fffff.
+|$(M
+L$ L
+|$(H
+L$1H
+t$(L)
+t$(M
+D$ B
+t$(H
+L$ L
+t$(1
+0[_^A\A^A_]
+UAWAVATVWSH
+ [_^A\A^A_]
+l$0H
+l$@H
+l$ H
+UVWH
+l$0H
+0_^]
+UVWH
+ _^]
+\$@H
+t$HH
+t,eH
+uqHc
+uML+
+L$@H
+D$@H
+H1D$ 
+L$HH1D$ 
+D$ H3L$ H3
+u3HcH<
+;csm
+\$03
+\$0H
+\$0H
+@VWAVH
+\$83
+ntel
+ineI
+GenuD
+t(=`
+t!=p
+ w$H
+l$@E3
+\$8H
+D$0$
+D$0$
+D$0$
+D$0H
+l$@3
+A^_^
+L$ H
+D$(H
+L$(H
+D$0H
+t$0H
+AVVWSH
+([_^A^
+l$ H
+UVWH
+l$@L
+@_^]
+UAVVWSH
+l$ H
+ [_^A^]
+l$ H
+l$ H
+l$PH
+l$PH
+l$0H
+l$PL9
+wAH9
+l$ I
+l$ H
+l$0H
+l$@I
+l$@H
+l$`H
+l$PH
+l$ H
+UVWH
+l$PL
+L$(L
+L$ H
+P_^]
+UAWAVVWSH
+l$ L
+([_^A^A_]
+UAVVWSH
+l$0H
+0[_^A^]
+UVWH
+l$PH
+P_^]
+VWSE
+fff.
+;;>u
+l$ H
+(^]H
+(^]H
+UAWAVATVWSH
+l$@H
+fffff.
+@[_^A\A^A_]
+$uyL
+UAWAVATVWSH
+ [_^A\A^A_]
+D$ H
+UVWSH
+l$ L
+([_^]
+D$ H
+D$ H
+?Ix#?D=XDQNZ//r)XJTl14Jj.1_-Nh+*!#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqr
+== The Adwa Chronicle II ==
+Enter the key: 
+ACCESS GRANTED
+ACCESS DENIED
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\alloc\src\raw_vec\mod.rs
+capacity overflow
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\alloc\src\fmt.rs
+entity not foundpermission deniedconnection refusedconnection resethost unreachablenetwork unreachableconnection abortednot connectedaddress in useaddress not availablenetwork downbroken pipeentity already existsoperation would blocknot a directoryis a directorydirectory not emptyread-only filesystem or storage mediumfilesystem loop or indirection limit (e.g. symlink loop)stale network file handleinvalid input parameterinvalid datatimed outwrite zerono storage spaceseek on unseekable filequota exceededfile too largeresource busyexecutable file busydeadlockcross-device link or renametoo many linksinvalid filenameargument list too longoperation interruptedunsupportedunexpected end of fileout of memoryin progressother erroruncategorized error/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\wtf8.rs
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\fmt\mod.rs
+start byte index 
+& is not a char boundary; it is inside 
+ (bytes 
+ of string)
+end byte index 
+& is not a char boundary; it is inside 
+ (bytes 
+ of string)
+end byte index 
+' is out of bounds for string of length 
+byte range starts at 
+ but ends at 
+start byte index 
+' is out of bounds for string of length 
+called `Option::unwrap()` on a `None` value
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\panicking.rs
+ index out of bounds: the len is 
+ but the index is 
+assertion `left 
+ right` failed
+  left: 
+ right: 
+panic in a function that cannot unwind00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+range end index 
+" out of range for slice of length 
+slice index starts at 
+ but ends at 
+range start index 
+" out of range for slice of length 
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\slice\memchr.rs
+';>NO
+	6=>V
+67VW
+)14:EFIJNOde
+;>fi
+./'(U
+:?EQ
+"%>?
+ #%&(38:HJLPSUVXZ\^`cefksx}
+PI73
+) as
+G	t<
+./?\]_
+)147:;=IJ]
+)14:;EFIJ^de
+):;EIW[^_de
+EIde
+INOWY^_
+FGNOXZ\^~
+tu&./
+NOZ[
+no7=?BESgu
+%_ m
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\unicode\printable.rs
+,`+*0
+!K@4
+jaUOo
+_..    
+0123456789ABCDEF`
+RefCell already borrowed/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\panic_abort\src\lib.rs
+{invalid syntax}{recursion limit reached}?`fmt::Error`s should be impossible without a `fmt::Formatter`/rust/deps\rustc-demangle-0.1.27\src\v0.rs
+for<> , 0123456789abcdef
+9internal error: entered unreachable code: str::from_utf8(
+) = 
+" was expected to have 1 char, but 
+ chars were found
+Cunsafe extern "
+" -fn() ->  + : punycode{}.llvm./rust/deps\rustc-demangle-0.1.27\src\lib.rs
+[]::::{closureshim:#< as >& mut *const ; (,dyn  is _falsetrue{ {  } = 0x
+'..= | !nullboolcharstr()i8i16i32i64i128isizeu8u16u32u64u128usizef32f64!...
+/rust/deps\rustc-demangle-0.1.27\src\legacy.rs
+{size limit reached}`fmt::Error` from `SizeLimitedFmtAdapter` was discarded
+SizeLimitExhaustedError
+ParseIntErrorkind/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\ops\function.rs
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\sync\once.rs
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\str\pattern.rs
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\io\mod.rs
+stream did not contain valid UTF-8
+assertion failed: n <= init_unfilled/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\io\borrowed_buf.rs
+a formatting trait implementation returned an error when the underlying stream did not
+failed printing to 
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\io\stdio.rs
+internal error: entered unreachable code/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\sys\pal\windows\mod.rs
+main	
+thread '
+) panicked at 
+<unnamed>/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\panicking.rs
+__rust_end_short_backtrace__rust_begin_short_backtraces
+      [... omitted 
+ frame
+ ...]
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+<unknown>	
+thread '
+) has overflowed its stack
+mid > lencalled `Result::unwrap()` on an `Err` value
+assertion failed: self.is_char_boundary(new_len)
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\thread\id.rs
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\sys\stdio\windows.rs
+too many active read locks on RwLock/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\sys\sync\rwlock\futex.rs
+assertion failed: is_unlocked(state)
+dbghelp.dll
+SymGetOptions
+SymSetOptions
+SymInitializeW
+SymGetSearchPathW
+SymSetSearchPathW
+SymQueryInlineTrace
+SymFromInlineContextW
+EnumerateLoadedModulesW64
+SymAddrIncludeInlineTrace
+SymGetLineFromInlineContextW
+Once instance has previously been poisoned/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\path.rs
+RUST_BACKTRACElock count overflow in reentrant mutex/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\sync\reentrant_lock.rs
+fatal runtime error: I/O error: operation failed to complete synchronously, aborting
+             at 
+      
+failed to write the buffered data
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\rt.rs
+memory allocation of 
+ bytes failed
+memory allocation of 
+G bytes failed
+skipping backtrace printing to avoid potential recursion
+Box<dyn Any>
+aborting due to panic at 
+panicked at 
+thread panicked while processing panic. aborting.
+thread caused non-unwinding panic. aborting.
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\..\..\backtrace\src\dbghelp.rs
+assertion failed: len >= 0
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\..\..\backtrace\src\symbolize\mod.rs
+stdout
+failed to write whole buffer
+stack backtrace:
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\core\src\slice\index.rs
+strings passed to WinAPI cannot contain NULs
+Windows stdin in console mode does not support non-UTF-16 input; encountered unpaired surrogate
+Windows stdio in console mode does not support writing non-UTF-8 byte sequences
+Unexpected number of bytes for incomplete UTF-8 codepoint.
+Unexpected error in MultiByteToWideChar
+	OS Error 
+" (FormatMessageW() returned error 
+/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\sys\io\error\windows.rs
+	OS Error 
++ (FormatMessageW() returned invalid UTF-16)
+kernel32
+failed to generate unique thread ID: bitspace exhausted"
+Local\RustBacktraceMutex00000000
+SetThreadDescription
+ (os error 
+TryFromIntErrorUtf8Errorvalid_up_toerror_lenNoneSome/rustc/2d8144b7880597b6e6d3dfd63a9a9efae3f533d3/library\std\src\io\buffered\linewritershim.rs
+EmptyInvalidDigitPosOverflowNegOverflowZeroNotAPowerOfTwo
+RSDS
+adwa_chronicle_ii.pdb
+.text
+.text$mn
+.text$mn$00
+.text$unlikely
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls
+.tls$
+.tls$ZZZ
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$rs
+.bss
+.pdata
+WakeByAddressSingle
+WaitOnAddress
+WakeByAddressAll
+api-ms-win-core-synch-l1-2-0.dll
+GetProcessHeap
+HeapFree
+HeapReAlloc
+AddVectoredExceptionHandler
+SetThreadStackGuarantee
+GetCurrentThread
+GetCurrentThreadId
+GetLastError
+SetLastError
+GetEnvironmentVariableW
+GetCurrentDirectoryW
+RtlCaptureContext
+GetCurrentProcess
+RtlLookupFunctionEntry
+WaitForSingleObjectEx
+LoadLibraryA
+GetProcAddress
+lstrlenW
+GetCurrentProcessId
+CreateMutexA
+CloseHandle
+ReleaseMutex
+RtlVirtualUnwind
+WideCharToMultiByte
+GetStdHandle
+GetConsoleMode
+GetConsoleOutputCP
+WaitForSingleObject
+MultiByteToWideChar
+WriteConsoleW
+HeapAlloc
+GetModuleHandleA
+GetModuleHandleW
+FormatMessageW
+ReadConsoleW
+KERNEL32.dll
+NtWriteFile
+RtlNtStatusToDosError
+NtReadFile
+ntdll.dll
+memset
+memcpy
+__CxxFrameHandler3
+memcmp
+memmove
+__C_specific_handler
+__current_exception
+__current_exception_context
+VCRUNTIME140.dll
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+__p___argc
+__p___argv
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+terminate
+free
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+InitializeSListHead
+SetUnhandledExceptionFilter
+rust_panic
+.?AVtype_info@@

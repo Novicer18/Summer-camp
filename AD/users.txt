@@ -1,0 +1,16 @@
+Administrator
+Guest
+krbtgt
+abebe.kebede
+tigist.haile
+dawit.bekele
+meseret.alemu
+yonas.tesfaye
+hanna.girma
+solomon.assefa
+bethlehem.tadesse
+mekonnen.desta
+selamawit.getachew
+db_svc
+user1
+domainjoin

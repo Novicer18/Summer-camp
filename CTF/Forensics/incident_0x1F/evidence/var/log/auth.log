@@ -1,0 +1,83 @@
+Aug 18 02:59:12 web-prod-01 sshd[20031]: Server listening on 0.0.0.0 port 22.
+Aug 18 03:03:41 web-prod-01 systemd-logind[812]: New session 41 of user www-data.
+Aug 18 03:11:03 web-prod-01 sshd[20443]: Failed password for root from 45.146.164.110 port 50122 ssh2
+Aug 18 03:11:06 web-prod-01 sshd[20446]: Failed password for admin from 45.146.164.110 port 50123 ssh2
+Aug 18 03:11:09 web-prod-01 sshd[20449]: Failed password for deploy from 45.146.164.110 port 50124 ssh2
+Aug 18 03:11:12 web-prod-01 sshd[20452]: Invalid user postgres from 45.146.164.110 port 50125 ssh2
+Aug 18 03:11:12 web-prod-01 sshd[20452]: Failed password for invalid user postgres from 45.146.164.110 port 50125 ssh2
+Aug 18 03:11:15 web-prod-01 sshd[20455]: Failed password for deploy from 45.146.164.110 port 50126 ssh2
+Aug 18 03:11:18 web-prod-01 sshd[20458]: Invalid user git from 45.146.164.110 port 50127 ssh2
+Aug 18 03:11:18 web-prod-01 sshd[20458]: Failed password for invalid user git from 45.146.164.110 port 50127 ssh2
+Aug 18 03:11:21 web-prod-01 sshd[20461]: Failed password for deploy from 45.146.164.110 port 50128 ssh2
+Aug 18 03:11:24 web-prod-01 sshd[20464]: Invalid user oracle from 45.146.164.110 port 50129 ssh2
+Aug 18 03:11:24 web-prod-01 sshd[20464]: Failed password for invalid user oracle from 45.146.164.110 port 50129 ssh2
+Aug 18 03:11:27 web-prod-01 sshd[20467]: Failed password for deploy from 45.146.164.110 port 50130 ssh2
+Aug 18 03:11:30 web-prod-01 sshd[20470]: Failed password for ubuntu from 45.146.164.110 port 50131 ssh2
+Aug 18 03:11:33 web-prod-01 sshd[20473]: Failed password for deploy from 45.146.164.110 port 50132 ssh2
+Aug 18 03:11:36 web-prod-01 sshd[20476]: Failed password for deploy from 45.146.164.110 port 50133 ssh2
+Aug 18 03:11:39 web-prod-01 sshd[20479]: Failed password for root from 45.146.164.110 port 50134 ssh2
+Aug 18 03:11:42 web-prod-01 sshd[20442]: Failed password for admin from 45.146.164.110 port 50135 ssh2
+Aug 18 03:11:45 web-prod-01 sshd[20445]: Failed password for deploy from 45.146.164.110 port 50136 ssh2
+Aug 18 03:11:48 web-prod-01 sshd[20448]: Invalid user postgres from 45.146.164.110 port 50137 ssh2
+Aug 18 03:11:48 web-prod-01 sshd[20448]: Failed password for invalid user postgres from 45.146.164.110 port 50137 ssh2
+Aug 18 03:11:51 web-prod-01 sshd[20451]: Failed password for deploy from 45.146.164.110 port 50138 ssh2
+Aug 18 03:11:54 web-prod-01 sshd[20454]: Invalid user git from 45.146.164.110 port 50139 ssh2
+Aug 18 03:11:54 web-prod-01 sshd[20454]: Failed password for invalid user git from 45.146.164.110 port 50139 ssh2
+Aug 18 03:11:57 web-prod-01 sshd[20457]: Failed password for deploy from 45.146.164.110 port 50140 ssh2
+Aug 18 03:12:00 web-prod-01 sshd[20440]: Invalid user oracle from 45.146.164.110 port 50141 ssh2
+Aug 18 03:12:00 web-prod-01 sshd[20440]: Failed password for invalid user oracle from 45.146.164.110 port 50141 ssh2
+Aug 18 03:12:03 web-prod-01 sshd[20443]: Failed password for deploy from 45.146.164.110 port 50142 ssh2
+Aug 18 03:12:06 web-prod-01 sshd[20446]: Failed password for ubuntu from 45.146.164.110 port 50143 ssh2
+Aug 18 03:12:09 web-prod-01 sshd[20449]: Failed password for deploy from 45.146.164.110 port 50144 ssh2
+Aug 18 03:12:12 web-prod-01 sshd[20452]: Failed password for deploy from 45.146.164.110 port 50145 ssh2
+Aug 18 03:12:15 web-prod-01 sshd[20455]: Failed password for root from 45.146.164.110 port 50146 ssh2
+Aug 18 03:12:18 web-prod-01 sshd[20458]: Failed password for admin from 45.146.164.110 port 50147 ssh2
+Aug 18 03:12:21 web-prod-01 sshd[20461]: Failed password for deploy from 45.146.164.110 port 50148 ssh2
+Aug 18 03:12:24 web-prod-01 sshd[20464]: Invalid user postgres from 45.146.164.110 port 50149 ssh2
+Aug 18 03:12:24 web-prod-01 sshd[20464]: Failed password for invalid user postgres from 45.146.164.110 port 50149 ssh2
+Aug 18 03:12:27 web-prod-01 sshd[20467]: Failed password for deploy from 45.146.164.110 port 50150 ssh2
+Aug 18 03:12:30 web-prod-01 sshd[20470]: Invalid user git from 45.146.164.110 port 50151 ssh2
+Aug 18 03:12:30 web-prod-01 sshd[20470]: Failed password for invalid user git from 45.146.164.110 port 50151 ssh2
+Aug 18 03:12:33 web-prod-01 sshd[20473]: Failed password for deploy from 45.146.164.110 port 50152 ssh2
+Aug 18 03:12:36 web-prod-01 sshd[20476]: Invalid user oracle from 45.146.164.110 port 50153 ssh2
+Aug 18 03:12:36 web-prod-01 sshd[20476]: Failed password for invalid user oracle from 45.146.164.110 port 50153 ssh2
+Aug 18 03:12:39 web-prod-01 sshd[20479]: Failed password for deploy from 45.146.164.110 port 50154 ssh2
+Aug 18 03:12:42 web-prod-01 sshd[20442]: Failed password for ubuntu from 45.146.164.110 port 50155 ssh2
+Aug 18 03:12:45 web-prod-01 sshd[20445]: Failed password for deploy from 45.146.164.110 port 50156 ssh2
+Aug 18 03:12:48 web-prod-01 sshd[20448]: Failed password for deploy from 45.146.164.110 port 50157 ssh2
+Aug 18 03:12:51 web-prod-01 sshd[20451]: Failed password for root from 45.146.164.110 port 50158 ssh2
+Aug 18 03:12:54 web-prod-01 sshd[20454]: Failed password for admin from 45.146.164.110 port 50159 ssh2
+Aug 18 03:12:57 web-prod-01 sshd[20457]: Failed password for deploy from 45.146.164.110 port 50160 ssh2
+Aug 18 03:13:00 web-prod-01 sshd[20440]: Invalid user postgres from 45.146.164.110 port 50161 ssh2
+Aug 18 03:13:00 web-prod-01 sshd[20440]: Failed password for invalid user postgres from 45.146.164.110 port 50161 ssh2
+Aug 18 03:13:03 web-prod-01 sshd[20443]: Failed password for deploy from 45.146.164.110 port 50162 ssh2
+Aug 18 03:13:06 web-prod-01 sshd[20446]: Invalid user git from 45.146.164.110 port 50163 ssh2
+Aug 18 03:13:06 web-prod-01 sshd[20446]: Failed password for invalid user git from 45.146.164.110 port 50163 ssh2
+Aug 18 03:13:09 web-prod-01 sshd[20449]: Failed password for deploy from 45.146.164.110 port 50164 ssh2
+Aug 18 03:13:12 web-prod-01 sshd[20452]: Invalid user oracle from 45.146.164.110 port 50165 ssh2
+Aug 18 03:13:12 web-prod-01 sshd[20452]: Failed password for invalid user oracle from 45.146.164.110 port 50165 ssh2
+Aug 18 03:13:15 web-prod-01 sshd[20455]: Failed password for deploy from 45.146.164.110 port 50166 ssh2
+Aug 18 03:13:18 web-prod-01 sshd[20458]: Failed password for ubuntu from 45.146.164.110 port 50167 ssh2
+Aug 18 03:13:21 web-prod-01 sshd[20461]: Failed password for deploy from 45.146.164.110 port 50168 ssh2
+Aug 18 03:13:24 web-prod-01 sshd[20464]: Failed password for deploy from 45.146.164.110 port 50169 ssh2
+Aug 18 03:13:27 web-prod-01 sshd[20467]: Failed password for root from 45.146.164.110 port 50170 ssh2
+Aug 18 03:13:30 web-prod-01 sshd[20470]: Failed password for admin from 45.146.164.110 port 50171 ssh2
+Aug 18 03:13:33 web-prod-01 sshd[20473]: Failed password for deploy from 45.146.164.110 port 50172 ssh2
+Aug 18 03:13:36 web-prod-01 sshd[20476]: Invalid user postgres from 45.146.164.110 port 50173 ssh2
+Aug 18 03:13:36 web-prod-01 sshd[20476]: Failed password for invalid user postgres from 45.146.164.110 port 50173 ssh2
+Aug 18 03:13:39 web-prod-01 sshd[20479]: Failed password for deploy from 45.146.164.110 port 50174 ssh2
+Aug 18 03:13:42 web-prod-01 sshd[20442]: Invalid user git from 45.146.164.110 port 50175 ssh2
+Aug 18 03:13:42 web-prod-01 sshd[20442]: Failed password for invalid user git from 45.146.164.110 port 50175 ssh2
+Aug 18 03:13:45 web-prod-01 sshd[20445]: Failed password for deploy from 45.146.164.110 port 50176 ssh2
+Aug 18 03:13:48 web-prod-01 sshd[20448]: Invalid user oracle from 45.146.164.110 port 50177 ssh2
+Aug 18 03:13:48 web-prod-01 sshd[20448]: Failed password for invalid user oracle from 45.146.164.110 port 50177 ssh2
+Aug 18 03:13:51 web-prod-01 sshd[20451]: Failed password for deploy from 45.146.164.110 port 50178 ssh2
+Aug 18 03:13:54 web-prod-01 sshd[20454]: Failed password for ubuntu from 45.146.164.110 port 50179 ssh2
+Aug 18 03:13:57 web-prod-01 sshd[20457]: Failed password for deploy from 45.146.164.110 port 50180 ssh2
+Aug 18 03:14:00 web-prod-01 sshd[20440]: Failed password for deploy from 45.146.164.110 port 50181 ssh2
+Aug 18 03:14:03 web-prod-01 sshd[20443]: Accepted password for deploy from 45.146.164.110 port 50182 ssh2
+Aug 18 03:14:03 web-prod-01 sshd[20477]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Aug 18 03:14:04 web-prod-01 systemd-logind[812]: New session 47 of user deploy.
+Aug 18 03:16:08 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/bash
+Aug 18 03:16:08 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root by deploy(uid=1001)
+Aug 18 03:23:55 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root

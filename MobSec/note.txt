@@ -1,0 +1,18 @@
+Types of Mob apps
+    = native apps
+    = 
+
+mob apps platform
+    = android platform
+    = iOs 
+
+
+android architecture
+
+
+mob app component
+    activities
+    services
+    broadcast receivers
+    content providers
+    intents [explicit and implicit]
